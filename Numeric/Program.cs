@@ -48,7 +48,9 @@ namespace Numeric
             Console.WriteLine(A.LU().L* A.LU().U);
             Console.WriteLine(A.QR().Q* A.QR().R);
             Console.WriteLine(A.LU().P);
-
+            //123456789
+            // vgvg
+            Console.WriteLine();
 
             // var matrix4 = new DenseMatrix(2, 2,  3.0 ); 
 
